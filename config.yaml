@@ -1,0 +1,10 @@
+bots:
+  - id: 3ZPpsH2RR9nzcZu9
+    classname: CryptBot
+    platforms:
+      vk:
+        token: <VK_TOKEN_HERE>
+        group_id: 173008208
+        confirm_code: 376cedae
+        secret: m6HwgxxqAnsp5UY9
+      telegram: <TELEGRAM_TOKEN_HERE>
